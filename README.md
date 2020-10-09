@@ -1,2 +1,1 @@
-# AI-Flappy-Bird
-AI Flappy Bird
+With this project, I am trying to do an AI Flappy Bird using the neat module. NEAT stands for: Non-exercise activity thermogenesis and what it does it uses genomes to learn a certain task/technique. I will also attach images needed for the project. 
